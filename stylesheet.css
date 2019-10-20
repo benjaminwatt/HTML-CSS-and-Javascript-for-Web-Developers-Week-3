@@ -24,3 +24,9 @@ body {
   color: black;
   text-transform: uppercase;
 }
+
+.nav-item a:hover {
+  background: #E7E7E7;
+}
+
+.navbar-brand
